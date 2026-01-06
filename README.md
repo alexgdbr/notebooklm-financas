@@ -59,7 +59,21 @@ O objetivo é transformar o estudo em uma prática ativa, usando IA para organiz
 
 ---
 
-## 🔗 Referências
-- Banco Central do Brasil
-- Comissão de Valores Mobiliários (CVM)
-- Sites de educação financeira (Ex.: Me Poupe!, InfoMoney, Investopedia)
+Este arquivo reúne links de fontes abertas utilizadas como base para o caderno temático e miniguia de estudo. As referências incluem materiais oficiais, artigos introdutórios e sites de educação financeira. ---
+
+## 📌 NotebookLM Original 
+- [NotebookLM - Introdução às Finanças](https://notebooklm.google.com/notebook/cd294000-4d33-46c9-b422-d2a0340271b4)
+
+## 📚 Fontes Oficiais 
+- [Banco Central do Brasil - Educação Financeira](https://www.bcb.gov.br/cidadaniafinanceira) 
+- [Comissão de Valores Mobiliários (CVM) - Educação Financeira](https://www.gov.br/cvm/pt-br/assuntos/educacao-financeira)
+- [Tesouro Direto - Investimentos em Renda Fixa](https://www.tesourodireto.com.br/) ---
+
+## 🌐 Sites de Educação Financeira 
+- [Investopedia - Financial Education](https://www.investopedia.com/)
+- [Me Poupe! - Educação Financeira](https://mepoupe.com/)
+- [InfoMoney - Guia de Investimentos](https://www.infomoney.com.br/)
+
+
+
+
